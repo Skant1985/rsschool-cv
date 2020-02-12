@@ -11,3 +11,19 @@
 ## About me:
 
 I like to learn frontend and backend. I seek to learn more about new technologies in programming.
+
+### Personal and business qualities:
+* Responsibility.
+* Attention to details.
+* Focus on results.
+* A constant desire to learn new technologies and tools.
+
+## Skills:
+1. HTML;
+2. CSS;
+3. PHP;
+4. Javascript;
+5. MYSQL;
+6. Jquery;
+7. Bootstrap;
+8. Less;
