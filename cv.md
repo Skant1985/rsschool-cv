@@ -27,3 +27,9 @@ I like to learn frontend and backend. I seek to learn more about new technologie
 6. Jquery;
 7. Bootstrap;
 8. Less;
+
+## Code examples:
+coming soon...
+
+## Experience:
+Experience in creating some websites, projects from courses, etc
