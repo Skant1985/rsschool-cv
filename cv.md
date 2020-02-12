@@ -33,3 +33,11 @@ coming soon...
 
 ## Experience:
 Experience in creating some websites, projects from courses, etc
+
+## Education:
+
+* Vitebsk State Technological University 2002-2007;
+* A lot of courses on youtube;
+
+## English:
+I think my level of English is A2.
