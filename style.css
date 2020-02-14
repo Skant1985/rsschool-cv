@@ -13,3 +13,14 @@ h1,h2{
 	border-bottom: 1px solid grey;
 	padding: 10px;
 }
+.wrap{
+	width: 1000px;
+	margin: 0 auto;
+}
+.photo{
+	width: 320px;
+	margin: 0 auto;
+}
+.photo img{
+	width: 320px;
+}
