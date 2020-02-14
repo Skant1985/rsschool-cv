@@ -2,3 +2,14 @@ body{
 	background-color: #9FF064;
 	font-size: 18px;
 	}
+section{
+	margin-bottom: 10px;
+}
+p{
+	text-align: center;
+}
+h1,h2{
+	text-align: center;
+	border-bottom: 1px solid grey;
+	padding: 10px;
+}
